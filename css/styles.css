@@ -30,6 +30,8 @@ body {
  padding-top: 24px;
  padding-bottom: 25px;
 
+ border-bottom: 1px solid #ECECEC;
+
 }
 .web{
 color: var(--title-tex-color);
@@ -175,7 +177,7 @@ line-height: 1.71;
 letter-spacing: 0.03em;
 color: var(--text-color);
 
-width: 270px;
+width: 264px;
 }
 
 /* directions */
